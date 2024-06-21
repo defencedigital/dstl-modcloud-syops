@@ -1,2 +1,2 @@
-# dstl-modcloud-syops
-Dstl on MODCloud Security Operating Procedures
+# Security Operating Procedures (SyOPs)
+## Dstl on MODCloud Security Operating Procedures
